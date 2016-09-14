@@ -1,0 +1,12 @@
+
+.col-xs-1 .col-xs-2 .col-xs-7 .col-xs-11 {
+  margin: none;
+  padding: none;
+}
+
+.couleur {
+  background-color : blue;
+
+  height : 40px;
+  width : auto;
+}
